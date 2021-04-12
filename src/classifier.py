@@ -25,8 +25,8 @@ class weight_norm(Enum):
     L1 = 1
     L2 = 2
 
-class Classifier():
-    '''Trains a network on image classification tasks.
+class Classifier(): 
+   '''Trains a network on image classification tasks.
 
    Args:
        network: The network to be trained.

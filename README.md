@@ -1,4 +1,4 @@
-## PH202-Code
+## PH202-Code (Handwritten Image Classification with Optical Neural Net Implementation)
 
 To run this experiment :
 
